@@ -1,0 +1,6 @@
+{
+  "name": "EcoVerse",
+  "description": "A gamified, story-driven carbon footprint awareness platform with custom budgets, interactive lifestyle simulator, quests, and a living Earth visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
